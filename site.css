@@ -1,0 +1,30 @@
+#board{
+    background-color: lightslategray;
+    height: 300px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.centerThis{
+    margin-left: auto;
+    margin-right: auto;
+}
+.movementDiv{
+    width: 300px;
+}
+.box{
+    height: 50px;
+    width: 50px;
+    float: left;
+}
+.blackBox{
+    background-color: black;
+}
+.white{
+    background-color: white;
+}
+
+.player{
+    background-color: green;
+}
